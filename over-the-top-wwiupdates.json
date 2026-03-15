@@ -13,7 +13,7 @@
         "UpdateStageName": "Create Workshop Directory",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "CreateDirectory",
-        "UpdateSourceArgs": "{{$FullBaseDir}}Over The Top WWI - Dedicated Server/workshop"
+        "UpdateSourceArgs": "{{$FullBaseDir}}workshop"
     },
     {
         "UpdateStageName": "Proton GE Download",
