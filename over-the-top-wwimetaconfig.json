@@ -1,26 +1,26 @@
 [
     {
-        "ConfigFile": "ServerConfiguration.ini",
+        "ConfigFile": "Over The Top WWI - Dedicated Server/ServerConfiguration.ini",
         "ConfigType": "ini",
         "AutoMap": true
     },
     {
-        "ConfigFile": "MpCampaign.txt",
+        "ConfigFile": "Over The Top WWI - Dedicated Server/MpCampaign.txt",
         "ConfigType": "",
         "AutoMap": false
     },
     {
-        "ConfigFile": "Banlist.txt",
+        "ConfigFile": "Over The Top WWI - Dedicated Server/Banlist.txt",
         "ConfigType": "",
         "AutoMap": false
     },
     {
-        "ConfigFile": "Whitelist.txt",
+        "ConfigFile": "Over The Top WWI - Dedicated Server/Whitelist.txt",
         "ConfigType": "",
         "AutoMap": false
     },
     {
-        "ConfigFile": "ServerInfo.ini",
+        "ConfigFile": "Over The Top WWI - Dedicated Server/ServerInfo.ini",
         "ConfigType": "ini",
         "AutoMap": true
     }
