@@ -509,8 +509,8 @@
         "FieldName": "SpecificReleaseVersion",
         "InputType": "text",
         "ParamFieldName": "SpecificReleaseVersion",
-        "DefaultValue": "GE-Proton9-1",
-        "Placeholder": "GE-Proton9-1",
+        "DefaultValue": "GE-Proton10-28",
+        "Placeholder": "GE-Proton10-28",
         "EnumValues": {}
     }
 ]
