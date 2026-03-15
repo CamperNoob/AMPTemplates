@@ -6,7 +6,8 @@
         "UpdateSourceData": "3052620",
         "UpdateSourceArgs": "2778610",
         "ForceDownloadPlatform": "Windows",
-        "DeleteAfterExtract": true
+        "DeleteAfterExtract": true,
+		"SkipOnFailure": false
     },
 	{
         "UpdateStageName": "Create Workshop Directory",
