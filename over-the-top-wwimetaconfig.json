@@ -1,0 +1,27 @@
+[
+    {
+        "ConfigFile": "ServerConfiguration.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "MpCampaign.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Banlist.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Whitelist.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "ServerInfo.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]
